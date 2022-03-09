@@ -1,0 +1,12 @@
+
+Restrict to gardens
+
+Edinburgh
+
+Benmore
+
+Dawyck
+
+=== Logan ===
+/wp-content/plugins/rbge_kml/feed.php?latitude=54.743542&longitude=-4.960728&slug=poi
+

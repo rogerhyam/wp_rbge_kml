@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+        <NetworkLink>
+            <name>Botanics Stories</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <description>A selection of geolocated stories from the Royal Botanic Garden Edinburgh</description>
+            <refreshVisibility>0</refreshVisibility>
+            <flyToView>1</flyToView>
+          <Link>
+            <href>http://stories.rbge.org.uk/wp-content/plugins/rbge_kml/toc.php</href>
+          </Link>
+        </NetworkLink>
+</kml>
